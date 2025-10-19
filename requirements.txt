@@ -1,2 +1,5 @@
 spikeinterface
 kilosort
+gdown
+sortingview
+kachery-cloud
