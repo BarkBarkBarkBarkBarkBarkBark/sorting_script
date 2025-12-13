@@ -6,5 +6,4 @@ param
 panel
 ipykernel
 jupyter_bokeh
--e ./scripts
-
+-e .
